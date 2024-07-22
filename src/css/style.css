@@ -172,4 +172,28 @@ section {
     padding: 10px 20px;
     font-size: 1em;
 }
+#sustainability-quiz {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#question {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+#answers {
+    list-style: none;
+    padding: 0;
+}
+
+#answers li {
+    margin: 10px 0;
+}
+
+#answers button {
+    padding: 10px 20px;
+    font-size: 1em;
+}
+
 
